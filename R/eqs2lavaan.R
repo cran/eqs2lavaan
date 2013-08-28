@@ -1,8 +1,6 @@
 eqs2lavaan <-
 function(eqs,data=NULL,compact=TRUE)
 {
-	library(lavaan)
-	library(stringr)
 	options(warn=-1)
 	#eqs		<- file.choose()
 	if(length(data)==1)
