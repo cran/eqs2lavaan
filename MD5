@@ -1,13 +1,13 @@
-6b224debb5a39023d4dd77d1589d8af8 *DESCRIPTION
-94bd4acfc8ec172d6887b34aa7199001 *NAMESPACE
-71d7b0516b3cccd655af1db370a3e001 *R/eqs2lavaan.R
+41db3746e5377c3edcddbf932d255459 *DESCRIPTION
+2a68bec1cdfc30521ccf4c2dee96b4e3 *NAMESPACE
+3864d7abc993455b78de1efddc509762 *R/eqs2lavaan.R
 9ce8fda3e823143693934379a23b34db *R/eqsCorr.R
 528e45f747decab908904fe9a0d961ea *R/eqsCov.R
 ddce963c10b552b6cc4f53e20ee6fb8d *R/eqsDesc.R
 a33658cd132459cecdcb7fe5d3d2c093 *R/out2lavaan.R
 c6fb3ea25aa02e56ac64db1e2fa66d2d *R/plotCov.R
 84838a456d80c52de2c60ed4d0d19b34 *man/eqs2lavaan-package.Rd
-6c8f1d79d7bfc421d90dc14b369afacb *man/eqs2lavaan.Rd
+b0ecfb4c1983b6f401a1505e80525af6 *man/eqs2lavaan.Rd
 c1156e4d6d330185791ec1635ad0ff03 *man/eqsCorr.Rd
 200374916e99277fd3ca775264610d24 *man/eqsCov.Rd
 e83d62452988cfe7bd701f1af760bf3a *man/eqsDesc.Rd

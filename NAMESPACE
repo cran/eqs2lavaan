@@ -1,2 +1,7 @@
-exportPattern("^[[:alpha:]]+")
 import(lavaan,stringr)
+export("eqs2lavaan", 
+       "eqsCorr", 
+       "eqsCov", 
+       "eqsDesc", 
+       "out2lavaan", 
+       "plotCov")

@@ -1,8 +1,8 @@
 Package: eqs2lavaan
 Type: Package
 Title: EQS Output Conversion to lavaan Functions
-Version: 1.1
-Date: 2013-08-28
+Version: 3.0
+Date: 2013-11-18
 Author: Craig M. Krebsbach
 Maintainer: Craig M. Krebsbach <craigmk@my.uri.edu>
 Description: Transitioning from EQS to R for structural equation modeling (SEM)
@@ -16,7 +16,7 @@ Depends: lavaan, stringr
 Collate: 'eqs2lavaan.R' 'eqsCorr.R' 'eqsCov.R' 'eqsDesc.R'
         'out2lavaan.R' 'plotCov.R'
 LazyLoad: Yes
-Packaged: 2013-08-28 17:21:45 UTC; craig_m_k
+Packaged: 2013-11-18 17:40:10 UTC; craig_m_k
 NeedsCompilation: no
 Repository: CRAN
-Date/Publication: 2013-08-29 00:23:38
+Date/Publication: 2013-11-18 20:42:38
